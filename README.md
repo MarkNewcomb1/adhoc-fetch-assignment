@@ -88,3 +88,7 @@ In `api/managed-records.js`, write a function named `retrieve` that requests dat
 `yarn install` to install.
 
 `yarn test` to run the provided unit tests.
+
+`cd records` then `node index.js` to run the API
+
+`yarn run build` to build the js then `yarn run open` to open the browser
